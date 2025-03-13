@@ -19,7 +19,7 @@ This is a **Streamlit dashboard** that provides interactive visualizations and i
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/superstore-dashboard.git
+git clone https://github.com/sopmlpo/StoreSalesDataAnalysis.git
 cd superstore-dashboard
 ```
 
